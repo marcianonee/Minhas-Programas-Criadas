@@ -1,0 +1,7 @@
+print('Olá, amigo!')
+print('0 meu nome é Marciano Bifa Có.')
+nome = input('Favor, digite o seu nome:')
+print('Obrigado! Foi um prazer te conhecer {}.'.format(nome))
+idade = input('Digite a sua idade:')
+curso = input('Digite o seu curso:')
+print('Agradeço a sua disponibilidade em aceitar esse nosso dialogo.')
